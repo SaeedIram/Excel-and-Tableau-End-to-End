@@ -1,6 +1,6 @@
 # Wealth of Nations.
 
-Data Source.
+[Data Source.](https://github.com/SaeedIram/Excel-and-Tableau.-End-to-End/blob/main/The%20Wealth%20of%20nations%20(1).xlsx)
 
 ##  Excel: GDP Tasks.
 
@@ -37,5 +37,7 @@ Data Source.
 ## Third Task. 
 
 [## Link to Tableau Public Dashboard.](https://public.tableau.com/app/profile/iram.saeed/viz/TheWealthofNations_/Dashboard1)https://public.tableau.com/app/profile/iram.saeed/viz/TheWealthofNations_/Dashboard1
+
+### Word file with screenshots of completed tasks.
 
 ![tableau](https://github.com/SaeedIram/Excel-and-Tableau.-End-to-End/assets/136697415/76c70b66-a9ae-46ea-ae40-553798cef9a8)
