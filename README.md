@@ -17,7 +17,8 @@
 [x] 6. Edit the Chart.
 + a) Add title.
 + b) Add X-axis and Y-axis labels. 
-+ c) Make Chart Visually Appealing. 
++ c) Make Chart Visually Appealing.
+  
 [x] 7. Move the Chart to new Sheet and Named it.
 
 [x] 8. TOP 20 Countries.
@@ -38,6 +39,6 @@
 
 [## Link to Tableau Public Dashboard.](https://public.tableau.com/app/profile/iram.saeed/viz/TheWealthofNations_/Dashboard1)https://public.tableau.com/app/profile/iram.saeed/viz/TheWealthofNations_/Dashboard1
 
-### Word file with screenshots of completed tasks.
-
+[### Word file with screenshots of completed tasks.
+](https://github.com/SaeedIram/Excel-and-Tableau.-End-to-End/blob/main/The%20Wealth%20of%20Nations.docx)
 ![tableau](https://github.com/SaeedIram/Excel-and-Tableau.-End-to-End/assets/136697415/76c70b66-a9ae-46ea-ae40-553798cef9a8)
